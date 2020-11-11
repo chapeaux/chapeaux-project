@@ -5,7 +5,7 @@ v1.0, 2020-11-11
 
 == Code of Conduct
 
-https://github.com/chapeaux/chapeaux-project/blob/main/CODE_OF_CONDUCT.adoc[Code of Conduct]
+https://github.com/chapeaux/chapeaux-project/blob/main/CODE_OF_CONDUCT.md[Code of Conduct]
 
 == Getting Started
 
