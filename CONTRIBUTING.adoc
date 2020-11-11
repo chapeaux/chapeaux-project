@@ -5,19 +5,21 @@ v1.0, 2020-11-11
 
 == Code of Conduct
 
-https://github.com/chapeaux/chapeaux-project/blob/main/CONTRIBUTING.adoc[Code of Conduct]
+https://github.com/chapeaux/chapeaux-project/blob/main/CODE_OF_CONDUCT.adoc[Code of Conduct]
 
+== Getting Started
 
 == Open Participant
 
-## Community Participant
+== Community Participant
 https://github.com/red-hat-people-team/red-hat-multiplier
 https://opensource.com/resources/what-open-source
 https://opensource.com/open-source-way
 ODF - https://github.com/red-hat-people-team/open-decision-framework/blob/master/ODF-community.md
 Inclusive Team Dynamics Quick Reference Sheet - https://github.com/red-hat-people-team/inclusive-team-dynamics/blob/master/quick_reference_sheet.md
-## Code
 
-## 
+== Code
+
+== Additional Details
 
 
